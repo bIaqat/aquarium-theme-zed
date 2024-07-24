@@ -3,6 +3,9 @@
 
 A colorful, dark, cozy Zed port of the [Aquarium](https://github.com/FrenzyExists/aquarium-vim/tree/develop) theme.
 
+<img src="assets/aquarium-combined-old.png" width="900">
+
+
 ## Preview
 ### Aquarium
 <img src="assets/aquarium.png" width="546">
