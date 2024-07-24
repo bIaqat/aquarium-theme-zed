@@ -1,8 +1,10 @@
 # Aquarium
+`variants: [Dark, Light]`
+
 A colorful, dark, cozy Zed port of the [Aquarium](https://github.com/FrenzyExists/aquarium-vim/tree/develop) theme.
 
 ## Preview
-<img src="assets/aquarium.png" width="546">
+<img src="assets/aquarium.png" width="900">
 
 
 ## Installation
