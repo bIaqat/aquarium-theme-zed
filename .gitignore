@@ -1,0 +1,6 @@
+.nvim.lua
+.DS_Store
+.zed/
+prime.js
+*copy/
+*template/
