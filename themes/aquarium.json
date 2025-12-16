@@ -416,7 +416,7 @@
 				"border": "#1c1c26",
 				"border.variant": "#1c1c26",
 				"border.focused": "#303347",
-				"border.selected": null,
+				"border.selected": "#303347",
 				"border.transparent": null,
 				"border.disabled": null,
 				"elevated_surface.background": "#1c1c26",
